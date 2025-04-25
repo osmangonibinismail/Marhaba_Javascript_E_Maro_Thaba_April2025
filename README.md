@@ -24,6 +24,8 @@ This challenge is inspired by the idea of **consistent daily progress**. Whether
 | 2   |                    |            |            |                              |
 | 3   |                    |            |            |                              |
 | ... |                    |            |            |                              |
+| 1   | _Coming soon..._   | -          | -          | -                            |
+| 2   |                    |            |            |                              |
 
 > 📌 I'll keep updating this table as I solve problems every day!
 
